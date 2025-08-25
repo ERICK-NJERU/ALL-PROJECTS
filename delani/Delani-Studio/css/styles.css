@@ -1,0 +1,265 @@
+.heading {
+  background-image: url(../assets/h_img.jpg) !important;
+  /* height: 1071px; */
+  background-size: 100%;
+  height: 100vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  position: relative;
+}
+.center {
+  padding-top: 25vh;
+  margin-left: 45%;
+}
+.welcome {
+  text-transform: uppercase;
+  font-family: Arial, Helvetica, sans-serif;
+  color: whitesmoke;
+  font-size: 50px;
+  padding-top: 5vh;
+  margin-left: 40%;
+  font-weight: bold;
+}
+.To {
+  text-transform: uppercase;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  color: white;
+  margin-left: 32%;
+}
+.Too {
+  font-size: 50px;
+}
+.amazing {
+  color: whitesmoke;
+  margin-left: 30%;
+  text-transform: uppercase;
+  font-size: 15px;
+}
+  /*Content section*/
+
+.about {
+  text-align: center;
+
+  font-weight: 15;
+  height: 50vh;
+}
+.us {
+  text-align: center;
+  padding-top: 5vh;
+  text-transform: uppercase;
+  color: black;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-size: 30px;
+  font-weight: 20px;
+}
+.mouse {
+ margin-left: 50%;
+ margin-top: 13.5%;
+ padding-bottom: 20px;
+
+}
+
+.services {
+  background-image: url(../assets/s_image.jpg);
+  height: 450px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  position: relative;
+  background-position: center;
+  color: white;text-align: center;
+}
+.servtext {
+margin-top: 50px;
+padding-top: 12%;
+}
+
+.hservice {
+  padding-top: 125px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  text-transform: uppercase;
+  font-size: 30px;
+  font-weight: 100;
+}
+.what {
+  padding-top: 50px;
+  color: black;
+  text-transform: uppercase;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-size: 30px;
+  font-weight: 50;
+  height: 100px;
+  text-align: center;
+}
+.row {
+  padding-top: 60px;
+  height: 50vh;
+  margin-left: 60px;
+}
+.design {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+.designe {
+  font-size: 16px;
+  padding-left: 5px;
+  padding-top: 2px;
+  text-transform: uppercase;
+}
+.development {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+    align-items: center;
+}
+.col-4 {
+  align-items: center !important;
+} important
+
+.design1 .design2 .design3 {
+  text-align: center;
+  padding: 20px;
+}
+.img1 {
+  margin-left: 33%;
+}
+.img2 {
+  margin-left: 33%;
+}
+.img3 {
+  margin-left: 30%;
+}
+#dev {
+  margin-left: 110px;
+}
+.management {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  padding-right: 30px;
+}
+.productsm {
+  font-size: 16px;
+  margin-left: -50px;
+  padding-top: 2px;
+  text-transform: uppercase;
+}
+.portfolio {
+  text-align: center;
+  text-transform: uppercase;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+.portfolios {
+  padding-top: 60px;
+  margin-bottom: -25px;
+  font-size: 25px;
+  font-weight: bold;
+}
+
+#port {
+  width: 100%;
+  margin: auto;
+}
+#port2 {
+  width: 100%;
+  margin: auto;
+}
+.contactUs {
+  padding: 5%;
+  background-image: url(../assets/backgrounds/c_image.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  color: white;
+}
+#button {
+  text-align: left;
+  margin-top: 10px;
+}
+
+/*inputfields */
+input[type=text],
+input[type=email],
+#message {
+  background-color: transparent;
+  box-sizing: border-box;
+  margin-bottom: 10px;
+  color: white;
+}
+
+.form-control::-webkit-input-placeholder {
+  color: white;
+}
+
+input.btn {
+  height: 45px;
+}
+
+input {
+  height: 60px;
+}
+
+footer {
+  padding: 2%;
+
+}
+#email {
+  color: white;
+  background-color: transparent;
+}
+#Name{
+  color: white;
+  background-color: transparent;
+}
+.submit{
+  text-align: left;
+  margin-left: 17.5%;
+}
+.btn-light {
+  background-color: chocolate !important;
+  color: white;
+}
+.btn-light:hover {
+  background-color: orange;
+  color: black;
+}
+.images {
+  text-align: center;
+  padding-top: 75px;
+}
+.name {
+  text-align: center;
+
+  padding-top: 70px;
+}
+.studio {
+  text-transform: uppercase;
+  font-size: 14px !important;
+
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+.data {
+  font-family: "Times New Roman", Times, serif;
+  color: white;
+  text-align: center;
+  background: transparent;
+  box-sizing: border-box;
+  border: 5px white;
+}
+.area{
+  padding-top: 40px;
+  background-color: transparent;
+  color: white !important;
+}
+#port2 {
+  padding: 20px;
+}
+.images {
+  height: 2px;
+  padding-bottom: 0%;
+}
+
+
